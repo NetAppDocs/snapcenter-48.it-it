@@ -57,7 +57,7 @@ NOTE: La clonazione di un backup di un'istanza non è supportata.
 
 . Selezionare il database o il gruppo di risorse.
 . Dalla pagina di visualizzazione Gestisci copie, selezionare il backup dal sistema di storage primario o secondario (mirrorato o vault).
-. Selezionare il backup, quindi fare clic su *image:../media/clone_icon.gif[""]*.
+. Selezionare il backup, quindi fare clic su * *image:../media/clone_icon.gif["icona clona"].
 . Nella pagina Clone Options (Opzioni clone), eseguire le seguenti operazioni:
 +
 |===

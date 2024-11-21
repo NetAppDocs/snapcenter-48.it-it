@@ -67,7 +67,7 @@ Se si utilizzano plug-in personalizzati di SnapCenter, non è possibile rinomina
 ** Se si utilizza il pacchetto di plug-in SnapCenter per Linux e il backup è stato catalogato utilizzando Gestione ripristino Oracle (RMAN), non è possibile rinominare i backup catalogati.
 
 
-. Se si desidera eliminare un clone, selezionarlo dalla tabella e fare clic su image:../media/delete_icon.gif[""] per eliminare il clone.
+. Se si desidera eliminare un clone, selezionarlo dalla tabella e fare clic image:../media/delete_icon.gif["icona elimina"] per eliminarlo.
 
 
 *Esempio di backup e cloni sullo storage primario*

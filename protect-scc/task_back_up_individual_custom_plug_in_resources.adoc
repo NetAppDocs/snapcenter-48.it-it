@@ -24,7 +24,7 @@ Se una singola risorsa plug-in personalizzata non fa parte di alcun gruppo di ri
 . Nel riquadro di spostamento di sinistra, fare clic su *risorse*, quindi selezionare il plug-in appropriato dall'elenco.
 . Nella pagina risorse, filtrare le risorse dall'elenco a discesa *Visualizza* in base al tipo di risorsa.
 +
-Fare clic su image:../media/filter_icon.gif[""], quindi selezionare il nome host e il tipo di risorsa per filtrare le risorse. Quindi fare clic su image:../media/filter_icon.gif[""] per chiudere il riquadro del filtro.
+Fare clic su image:../media/filter_icon.gif["icona del filtro"], quindi selezionare il nome host e il tipo di risorsa per filtrare le risorse. È quindi possibile fare clic su image:../media/filter_icon.gif["icona del filtro"] per chiudere il riquadro del filtro.
 
 . Fare clic sulla risorsa di cui si desidera eseguire il backup.
 . Nella pagina Resource, se si desidera utilizzare un nome personalizzato, selezionare la casella di controllo *Usa formato nome personalizzato per copia Snapshot* , quindi immettere un formato nome personalizzato per il nome della copia Snapshot.
@@ -58,7 +58,7 @@ Selezionare questa opzione per evitare di forzare un punto di coerenza WAFL.
 
 |===
 +
-image:../media/application_settings.gif[""]
+image:../media/application_settings.gif["impostazioni dell'applicazione"]
 
 .. Fare clic sulla freccia *Scripts* per eseguire i comandi pre e post per le operazioni di quiesce, copia Snapshot e senza richieste. È inoltre possibile eseguire i comandi preliminari prima di uscire dall'operazione di backup.
 +
@@ -98,12 +98,12 @@ Selezionare *Altro*, quindi immettere il comando per creare una copia Snapshot.
 .. Selezionare uno o più criteri dall'elenco a discesa.
 +
 
-NOTE: È anche possibile creare un criterio facendo clic su image:../media/add_policy_from_resourcegroup.gif[""].
+NOTE: È inoltre possibile creare un criterio facendo clic su image:../media/add_policy_from_resourcegroup.gif["aggiungi criterio dal gruppo di risorse"].
 
 +
 Nella sezione Configure schedules for selected policies (Configura pianificazioni per policy selezionate), vengono elencati i criteri selezionati.
 
-.. Fare clic su image:../media/add_policy_from_resourcegroup.gif[""] Nella colonna Configure Schedules (Configura pianificazioni) per il criterio per il quale si desidera configurare una pianificazione.
+.. Fare clic image:../media/add_policy_from_resourcegroup.gif["aggiungi criterio dal gruppo di risorse"] nella colonna Configura pianificazioni per il criterio per il quale si desidera configurare una pianificazione.
 .. Nella finestra di dialogo Add schedules for policy _policy_name_, configurare la pianificazione, quindi fare clic su *OK*.
 +
 Dove _policy_name_ è il nome del criterio selezionato.

@@ -44,7 +44,7 @@ Selezionare *Path* dall'elenco View (Visualizza).
 +
 Viene visualizzata la pagina della topologia delle risorse.
 
-. Dalla vista Manage Copies (Gestisci copie), selezionare la risorsa clonata (ad esempio, il database o il LUN), quindi fare clic su *image:../media/split_cone.gif[""]*.
+. Nella vista Gestisci copie, selezionare la risorsa clonata (ad esempio, il database o LUN), quindi fare clic su * *image:../media/split_cone.gif["dividi"].
 . Esaminare le dimensioni stimate del clone da dividere e lo spazio richiesto disponibile sull'aggregato, quindi fare clic su *Start*.
 . Monitorare l'avanzamento dell'operazione facendo clic su *Monitor* > *Jobs*.
 +

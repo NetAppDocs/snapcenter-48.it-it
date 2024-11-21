@@ -1,5 +1,5 @@
 ---
-permalink: protect-sco/task_create_resource_groups_and_attach_policies_for_oracle_databases.html 
+permalink: protect-sco/task_create_resource_groups_and_attaching_policies_for_oracle_databases.html 
 sidebar: sidebar 
 keywords: run as 
 summary: Un gruppo di risorse è un container in cui vengono aggiunte le risorse di cui si desidera eseguire il backup e la protezione. Un gruppo di risorse consente di eseguire contemporaneamente il backup di tutti i dati associati a una determinata applicazione. 
@@ -20,7 +20,7 @@ Collegare uno o più criteri al gruppo di risorse per definire il tipo di lavoro
 
 L'immagine seguente illustra la relazione tra risorse, gruppi di risorse e criteri per i database:
 
-image::../media/sco_resourcegroup_policy.gif[policy del resourcegroup sco]
+image::../media/sco_resourcegroup_policy.gif[criterio gruppo di risorse]
 
 .Fasi
 . Nel riquadro di navigazione a sinistra, selezionare *risorse* e il plug-in appropriato dall'elenco.

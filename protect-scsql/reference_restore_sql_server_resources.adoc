@@ -15,7 +15,7 @@ summary: È possibile utilizzare SnapCenter per ripristinare i database di SQL S
 
 Il seguente flusso di lavoro mostra la sequenza in cui è necessario eseguire le operazioni di ripristino del database:
 
-image::../media/all_plug_ins_restore_workflow.png[all_plug-in_restore_workflow]
+image::../media/all_plug_ins_restore_workflow.gif[ripristinare il flusso di lavoro]
 
 È inoltre possibile utilizzare i cmdlet PowerShell manualmente o negli script per eseguire operazioni di backup, ripristino, ripristino, verifica e clonazione. Per informazioni dettagliate sui cmdlet di PowerShell, consultare la guida in linea del cmdlet di SnapCenter o la https://library.netapp.com/ecm/ecm_download_file/ECMLP2874310["Guida di riferimento per il software SnapCenter 4.4 cmdlet"]
 

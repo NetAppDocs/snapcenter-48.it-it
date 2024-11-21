@@ -99,7 +99,7 @@ I gruppi di risorse di SnapCenter per Microsoft Exchange Server non possono aver
 .. Selezionare uno o più criteri dall'elenco a discesa.
 +
 
-NOTE: Puoi anche creare una policy facendo clic su *image:../media/add_policy_from_resourcegroup.gif[""]*.
+NOTE: È anche possibile creare una policy facendo clic su * *image:../media/add_policy_from_resourcegroup.gif["aggiungi criterio dal gruppo di risorse"].
 
 +
 
@@ -108,7 +108,7 @@ NOTE: Se un criterio contiene l'opzione *Backup delle copie sui server da selezi
 +
 Nella sezione Configure schedules for selected policies (Configura pianificazioni per policy selezionate), vengono elencati i criteri selezionati.
 
-.. Nella sezione Configure schedules for selected policy (Configura pianificazioni per policy selezionate), fare clic su *image:../media/add_policy_from_resourcegroup.gif[""]* Nella colonna *Configura pianificazioni* per il criterio per il quale si desidera configurare la pianificazione.
+.. Nella sezione Configura pianificazioni per i criteri selezionati, fare clic su * *image:../media/add_policy_from_resourcegroup.gif["aggiungi criterio dal gruppo di risorse"]nella colonna *Configura pianificazioni* per il criterio per il quale si desidera configurare la pianificazione.
 .. Nella finestra di dialogo Add schedules for policy _policy_name_, configurare la pianificazione specificando la data di inizio, la data di scadenza e la frequenza, quindi fare clic su *OK*.
 +
 È necessario eseguire questa operazione per ciascuna frequenza elencata nella policy. I piani di lavoro configurati sono elencati nella colonna *piani di lavoro applicati* della sezione Configura piani di lavoro per i criteri selezionati.
@@ -126,7 +126,7 @@ Le pianificazioni di backup di terze parti non sono supportate quando si sovrapp
 Per la notifica via email, è necessario aver specificato i dettagli del server SMTP utilizzando il comando GUI o PowerShell `Set-SmSmtpServer`.
 
 +
-Le informazioni relative ai parametri che possono essere utilizzati con il cmdlet e le relative descrizioni possono essere ottenute eseguendo _Get-Help command_name_. In alternativa, fare riferimento alla https://library.netapp.com/ecm/ecm_download_file/ECMLP2885482["Guida di riferimento al cmdlet del software SnapCenter"^].
+Le informazioni relative ai parametri che possono essere utilizzati con il cmdlet e le relative descrizioni possono essere ottenute eseguendo _Get-Help command_name_. In alternativa, fare riferimento anche a https://docs.netapp.com/us-en/snapcenter-cmdlets-48/index.html["Guida di riferimento al cmdlet del software SnapCenter"^].
 
 . Esaminare il riepilogo, quindi fare clic su *fine*.
 
