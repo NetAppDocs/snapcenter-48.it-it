@@ -136,4 +136,4 @@ Attivare o disattivare il DR dello storage
 POST
 
 |===
-Per ulteriori informazioni, consultare https://www.youtube.com/watch?v=Nbr_wm9Cnd4&list=PLdXI3bZJEw7nofM6lN44eOe4aOSoryckg["API di disaster recovery"^] video.
+Per ulteriori informazioni, vedere il https://www.youtube.com/watch?v=_8NG-tTGy8k&list=PLdXI3bZJEw7nofM6lN44eOe4aOSoryckg["API di disaster recovery"^] video.
